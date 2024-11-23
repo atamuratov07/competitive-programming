@@ -18,7 +18,7 @@
       "regex": "cpp",
       "valarray": "cpp"
    },
-   "window.zoomLevel": 0,
+   "window.zoomLevel": 1,
    "window.commandCenter": false,
    "window.density.editorTabHeight": "compact",
    // ===============================================
@@ -31,8 +31,7 @@
    "workbench.startupEditor": "none",
    "workbench.layoutControl.enabled": false,
    "workbench.sideBar.location": "right",
-   // "workbench.activityBar.location": "hidden",
-   "workbench.statusBar.visible": false,
+   "workbench.activityBar.location": "hidden",
    "workbench.list.smoothScrolling": true,
    // ===============================================
    "workbench.iconTheme": "material-icon-theme",
@@ -57,7 +56,7 @@
    // ===============================================
    "editor.cursorBlinking": "expand",
    "editor.smoothScrolling": true,
-   "editor.stickyScroll.enabled": true,
+   "editor.stickyScroll.enabled": false,
    // ===============================================
    "editor.fontSize": 18,
    "editor.fontFamily": "JetBrains Mono",
@@ -66,23 +65,7 @@
    "editor.wordWrap": "on",
    "editor.unicodeHighlight.ambiguousCharacters": false,
    // ===============================================
-   "breadcrumbs.icons": false,
-   "breadcrumbs.showKeys": false,
-   "breadcrumbs.showFiles": false,
-   "breadcrumbs.symbolPath": "off",
-   "breadcrumbs.showArrays": false,
-   "breadcrumbs.showEvents": false,
-   "breadcrumbs.showFields": false,
-   "breadcrumbs.showEnums": false,
-   "breadcrumbs.showClasses": false,
-   "breadcrumbs.showMethods": false,
-   "breadcrumbs.showBooleans": false,
-   "breadcrumbs.showFunctions": false,
-   "breadcrumbs.showConstants": false,
-   "breadcrumbs.showModules": false,
-   "breadcrumbs.showProperties": false,
-   "breadcrumbs.showConstructors": false,
-   "breadcrumbs.showEnumMembers": false,
+   "breadcrumbs.enabled": false,
    // ===============================================
    "terminal.integrated.defaultProfile.windows": "Windows PowerShell",
    "terminal.integrated.smoothScrolling": true,
