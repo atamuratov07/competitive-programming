@@ -16,7 +16,9 @@
       "span": "cpp",
       "stacktrace": "cpp",
       "regex": "cpp",
-      "valarray": "cpp"
+      "valarray": "cpp",
+      "numbers": "cpp",
+      "random": "cpp"
    },
    "window.zoomLevel": 1,
    "window.commandCenter": false,
